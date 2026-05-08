@@ -1,23 +1,9 @@
 {
-  "timestamp": "2026-05-08T23:00:13.670898",
+  "timestamp": "2026-05-09T00:00:17.704318",
   "today": {
-    "by_provider": {
-      "anthropic": 0.006,
-      "minimax": 0.000131
-    },
-    "total": 0.006131,
-    "models": [
-      {
-        "name": "claude-haiku-4-5-20251001",
-        "cost": 0.006,
-        "requests": 3
-      },
-      {
-        "name": "minimax/m2.7",
-        "cost": 0.000131,
-        "requests": 2
-      }
-    ]
+    "by_provider": {},
+    "total": 0,
+    "models": []
   },
   "week": {
     "by_provider": {
