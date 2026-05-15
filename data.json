@@ -1,16 +1,13 @@
 {
-  "timestamp": "2026-05-15T23:00:55.124208",
+  "timestamp": "2026-05-16T00:00:58.089169",
   "today": {
     "by_provider": {},
     "total": 0,
     "models": []
   },
   "week": {
-    "by_provider": {
-      "anthropic": 0.006,
-      "minimax": 0.000131
-    },
-    "total": 0.006131
+    "by_provider": {},
+    "total": 0
   },
   "hourly_24h": []
 }
